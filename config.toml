@@ -1,7 +1,5 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-
-
 baseURL = "https://www.praetorius.pl/"
 languageCode = "en-US"
 title = "Praetorius Polska | We know your language. And theirs."
