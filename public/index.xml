@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Praetorius Polska | We know your language. And theirs.</title>
-    <link>https://github.com/praetoriuspl/ppl-site/</link>
+    <link>http://www.praetorius.pl/</link>
     <description>Recent content on Praetorius Polska | We know your language. And theirs.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://github.com/praetoriuspl/ppl-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.praetorius.pl/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
