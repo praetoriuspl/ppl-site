@@ -2,7 +2,8 @@
 theme = "hugo-icon"
 
 
-baseURL = "https://www.praetorius.pl/"languageCode = "en-US"
+baseURL = "https://www.praetorius.pl/"
+languageCode = "en-US"
 title = "Praetorius Polska | We know your language. And theirs."
 
 # Metadata
