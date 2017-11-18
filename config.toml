@@ -45,7 +45,7 @@ title = "Praetorius Polska | We know your language. And theirs."
     name = "mission statement"
     title = "Mission Statement"
     subtitle = "We deliver multilingual content in the language of your choice and for the target audiences of your choice, translated and edited by qualified and experienced translators, who not only have a sound understanding of the nuances of the language they are translating from but also have the writing and editorial skills necessary to communicate your message clearly and effectively in their mother tongue."
-    description = "<p></p><ul class='checked'><li></li><li></li><li></li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Contact Us</a></p>"
+    description = "<p></p><li></li><li></li><li></li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Contact Us</a></p>"
 
 
 
