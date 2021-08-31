@@ -184,7 +184,7 @@ title = "Praetorius Polska | We know your language. And theirs."
 [params.contact]
   enable = true
   title = "Contact Us"
-  message = "Praetorius Polska Sp. z o.o, ul. Grota Roweckiego 10, 30-348 KRAKOW, POLAND"
+  message = "<div>Praetorius Polska Sp. z o.o,</div>ul. Grota Roweckiego 10, 30-348 KRAKOW, POLAND"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
