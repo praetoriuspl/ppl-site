@@ -4,6 +4,30 @@ baseURL = "https://www.praetorius.pl"
 languageCode = "en-US"
 title = "Praetorius Polska | We know your language. And theirs."
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+
+[markup.goldmark.parser]
+autoHeadingID = true
+autoHeadingIDType = 'github'
+[markup.goldmark.parser.attribute]
+block = false
+title = true
+
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false
+
 # Metadata
 [params]
   author = "Praetorius Polska Sp. z o.o."
