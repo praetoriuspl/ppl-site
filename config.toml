@@ -25,7 +25,7 @@ title = true
 
 [markup.goldmark.renderer]
 hardWraps = true
-unsafe = true
+unsafe = false
 xhtml = false
 
 # Metadata
