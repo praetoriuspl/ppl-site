@@ -208,7 +208,7 @@ xhtml = false
 [params.contact]
   enable = true
   title = "Contact Us"
-  message = "Praetorius Polska Sp. z o.o.,\nul. Grota Roweckiego 10,\n30-348 KRAKOW,\nPOLAND \nTel: +48694352563\n"
+  message = "Praetorius Polska Sp. z o.o.\nul. Grota Roweckiego 10\n30-348 KRAKOW\nPOLAND \nTel: +48694352563\n"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
